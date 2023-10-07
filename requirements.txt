@@ -4,4 +4,3 @@ scikit-learn
 streamlit 
 matplotlib
 pip
-scikit-learn
