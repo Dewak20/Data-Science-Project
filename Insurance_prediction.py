@@ -5,7 +5,7 @@ import streamlit as st
 model = pickle.load(open('Insurance_prediction.sav','rb'))
 
 
-st.title('Insurance Prediction')
+st.title('Medical Insurance Price Prediction')
 st.subheader(':blue[_by Krishnadana_]:sunglasses:')
 
 age = st.number_input('AGE ⏳',0)
